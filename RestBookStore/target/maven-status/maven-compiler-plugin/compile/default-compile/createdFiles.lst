@@ -1,0 +1,4 @@
+com\bookstore\Book.class
+com\bookstore\resource\BookResource.class
+com\bookstore\resource\BookApplication.class
+com\bookstore\BookService.class
